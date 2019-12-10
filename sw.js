@@ -1,7 +1,8 @@
-var cacheName = 'pushupscounter-v3'
+var cacheName = 'pushupscounter-v5'
 var contentToCache = [
   '/pushupscounter/',
   '/pushupscounter/index.html',
+  '/pushupscounter/js/pouchdb.min.js',
   '/pushupscounter/js/app.js',
   '/pushupscounter/css/app.css',
   '/pushupscounter/icons/icon-32.png',

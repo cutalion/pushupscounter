@@ -31,6 +31,6 @@
   ],
   "start_url": "/pushupscounter/index.html",
   "display": "fullscreen",
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff"
+  "theme_color": "#f7f4ea",
+  "background_color": "#f7f4ea"
 }
