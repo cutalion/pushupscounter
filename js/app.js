@@ -78,7 +78,7 @@ if (!window.indexedDB) {
 
 if('serviceWorker' in navigator) {
   console.log('serviceWorker available');
-  navigator.serviceWorker.register('/pushupscounter/sw.js');
+  navigator.serviceWorker.register('/sw.js');
   console.log('serviceWorker registered');
 } else {
   console.log('serviceWorker is not supported');

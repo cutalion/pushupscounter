@@ -1,16 +1,16 @@
-var cacheName = 'pushupscounter-v5'
+var cacheName = 'pushupscounter-v6'
 var contentToCache = [
-  '/pushupscounter/',
-  '/pushupscounter/index.html',
-  '/pushupscounter/js/pouchdb.min.js',
-  '/pushupscounter/js/app.js',
-  '/pushupscounter/css/app.css',
-  '/pushupscounter/icons/icon-32.png',
-  '/pushupscounter/icons/icon-64.png',
-  '/pushupscounter/icons/icon-128.png',
-  '/pushupscounter/icons/icon-192.png',
-  '/pushupscounter/icons/icon-256.png',
-  '/pushupscounter/icons/icon-512.png',
+  '/',
+  '/index.html',
+  '/js/pouchdb.min.js',
+  '/js/app.js',
+  '/css/app.css',
+  '/icons/icon-32.png',
+  '/icons/icon-64.png',
+  '/icons/icon-128.png',
+  '/icons/icon-192.png',
+  '/icons/icon-256.png',
+  '/icons/icon-512.png',
 ];
 
 self.addEventListener('install', (e) => {
